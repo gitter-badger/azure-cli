@@ -1,6 +1,10 @@
 Microsoft Azure CLI 2.0 - Preview
 ==================================
 
+.. image:: https://badges.gitter.im/biggorog01/azure-cli.svg
+   :alt: Join the chat at https://gitter.im/biggorog01/azure-cli
+   :target: https://gitter.im/biggorog01/azure-cli?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+
 .. image:: https://travis-ci.org/Azure/azure-cli.svg?branch=master
     :target: https://travis-ci.org/Azure/azure-cli
 
